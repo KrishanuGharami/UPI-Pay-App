@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532533031917",
+    "project_id": "upi-pay-app",
+    "storage_bucket": "upi-pay-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532533031917:android:ce7039b74cb6c27b9f6de4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCss337XcRDBpFT5ghd_6ddkz0x1O6HJK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

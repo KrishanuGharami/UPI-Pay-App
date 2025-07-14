@@ -1,7 +1,8 @@
 # Flutter UPI Pay App 💳
 
 <img src="https://github.com/user-attachments/assets/f8a1a490-9177-44e3-8abe-2e01793125d4" width="200" />
-<img src="https://github.com/user-attachments/assets/f8a1a490-9177-44e3-8abe-2e01793125d4" width="200" />
+<img src="https://github.com/user-attachments/assets/ce0a1c85-1ba8-42a0-b83e-dc849a315804" width="200" />
+
 
 
 

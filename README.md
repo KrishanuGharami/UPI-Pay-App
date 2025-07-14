@@ -2,6 +2,11 @@
 
 A complete Flutter UPI payment application with Firebase integration, QR code scanning, and modern Material Design 3 UI.
 
+## 🌐 **Live Demo**
+**🔗 Try the app now**: [https://upi-pay-app.web.app](https://upi-pay-app.web.app)
+
+*The app is deployed on Firebase Hosting and ready to use!*
+
 ## 🚀 Features
 
 - **Firebase Authentication** - Phone number OTP verification
@@ -65,6 +70,17 @@ flutter build apk --release
 ```bash
 flutter build appbundle --release
 ```
+
+### Web Deployment (Firebase Hosting)
+```bash
+# Build web version
+flutter build web --release
+
+# Deploy to Firebase
+firebase deploy --only hosting
+```
+
+**Live URL**: https://upi-pay-app.web.app
 
 ## 📁 Project Structure
 
